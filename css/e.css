@@ -1,0 +1,147 @@
+body{
+    background-color: rgb(255, 241, 162);
+}
+p{
+    font-family: sans-serif;
+    color: rgb(40, 0, 243);
+    text-align: center;
+}
+#cabeza{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(183, 112, 6);
+    position: absolute;
+    border-radius: 200px;
+    left: 40%;
+}
+
+#oreja1{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(183, 112, 6);
+    position: absolute;
+    border-radius: 200px;
+    right: 70%;
+
+    background: radial-gradient(circle, transparent 30%, rgb(183, 112, 6) 30%);
+} 
+#oreja2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(183, 112, 6);
+    position: absolute;
+    border-radius: 200px;
+    left: 70%;
+    background: radial-gradient(circle, transparent 30%, rgb(183, 112, 6) 30%);
+}
+
+#ojo1{
+    width: 100px;
+    height: 105px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    border-radius: 50px;
+    left: 60%;
+    top: 25%;
+}
+#ojo2{
+    width: 100px;
+    height: 105px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    border-radius: 50px;
+    left: 12%;
+    top: 25%;
+}
+#pupila1{
+    width: 80px;
+    height: 90px;
+    background-color: rgb(40, 1, 33);
+    position: absolute;
+    border-radius: 50px;
+    left: 7%;
+    top: 10%;
+}
+#pupila2{
+    width: 80px;
+    height: 90px;
+    background-color: rgb(40, 1, 33);
+    position: absolute;
+    border-radius: 50px;
+    left: 12%;
+    top: 10%;
+}
+
+#hocico{
+    width: 300px;
+    height: 115px;
+    background-color: rgb(255, 170, 78);
+    position: absolute;
+    border-radius: 200px;
+    left: 7%;
+    top: 55%;
+}
+#nariz{
+    width: 80px;
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    border-radius: 50px;
+    left: 35%;
+   
+}
+
+#cuerpo{
+    width: 450px;
+    height: 470px;
+    background-color: rgb(183, 112, 6);
+    position: absolute;
+    border-radius: 400px;
+    top: 90%;
+    left: -16%;
+}
+#panza{
+    width: 350px;
+    height: 420px;
+    background-color: rgb(249, 196, 116);
+    position: absolute;
+    border-radius: 400px;
+    left: 12%;
+    top:8%;
+}
+#brazo1{
+    width: 180px;
+    height: 200px;
+    background-color: rgb(183, 112, 6);
+    position: absolute;
+    border-radius: 95px;
+    right: 90%;
+    top: 80%;
+}
+#brazo2{
+    width: 180px;
+    height: 200px;
+    background-color: rgb(183, 112, 6);
+    position: absolute;
+    border-radius:95px;
+    left: 90%;
+    top: 80%;
+}
+#pata1{
+    width: 180px;
+    height: 200px;
+    background-color: rgb(183, 112, 6);
+    position: absolute;
+    border-radius: 180px;
+    right: 90%;
+    top: 185%;
+}
+#pata2{
+    width: 180px;
+    height: 200px;
+    background-color: rgb(183, 112, 6);
+    position: absolute;
+    border-radius:180px;
+    left: 90%;
+    top: 185%;
+}
